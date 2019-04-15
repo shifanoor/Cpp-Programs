@@ -2,4 +2,4 @@
 
 CPP Programs
 
-1. Singly Linked List- Template Clas with Iterators
+1. Singly Linked List- Template Class with Iterators
