@@ -2,7 +2,7 @@
 #include <assert.h>
 #include <iostream>
 using namespace std;
-#define NDEBUG 
+
 template<typename T>
 class Single_List
 {
